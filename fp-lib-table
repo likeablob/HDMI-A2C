@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name HDMI_Plugs)(type KiCad)(uri ${KIPRJMOD}/HDMI_Plugs.pretty)(options "")(descr ""))
+)
